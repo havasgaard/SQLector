@@ -26,13 +26,16 @@ Phase 1: Core Functionality
 Basic scanning for SQL injection vulnerabilities.
 Initial user interface for inputting target URLs.
 Basic reporting and logging of findings.
+
 Phase 2: Advanced Features
 Enhanced scanning modes for in-depth analysis.
 Customizable payloads and testing procedures.
 Integration with other security tools for expanded capabilities.
+
 Phase 3: Security and Community
 Implementation of security warnings and ethical guidelines.
 Community engagement features such as forums or contribution guides.
+
 TODO List
  Develop a basic layout for the user interface.
  Implement initial scanning logic for SQL injection.
